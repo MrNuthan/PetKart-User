@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
           {/* Brand */}
           <div>
             <Link to="/" className="flex items-center mb-6 w-fit group">
-              <div className="bg-white rounded-3xl px-5 py-3 shadow-xl group-hover:scale-105 transition-transform duration-300">
+              <div className="rounded-3xl px-5 py-3 shadow-xl group-hover:scale-105 transition-transform duration-300">
                 <img
                   src="/petkart-logo - Footer.png"
                   alt="PetKart — Online Pet Store"
