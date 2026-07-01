@@ -12,7 +12,7 @@ export const Footer: React.FC = () => {
             <Link to="/" className="flex items-center mb-6 w-fit group">
               <div className="rounded-3xl px-5 py-3 shadow-xl group-hover:scale-105 transition-transform duration-300">
                 <img
-                  src="/petkart-logo - Footer.png"
+                  src="/petkart-logo - Footer1.png"
                   alt="PetKart — Online Pet Store"
                   className="h-20 w-auto max-w-[240px] object-contain"
                 />
